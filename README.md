@@ -1,5 +1,5 @@
 #  Bio
-- 👋 Hi, I’m **Idara-Abasi Udoh**
+- 👋 Hi, I’m **[Idara-Abasi Udoh](https://www.idaraudoh.com)**
 - 👀 I’m interested in **Artificial Intelligence - Focus on Deep Learning**, **Mobile / Web Development** and other software development projects
 - 🌱 I’m proficient in `Python`, `Java` , `C/C++`, and other languages and currently undergoing certifications in `AI Engineering` 
 - 💞️ I’m looking to collaborate on **AI - ML/DL Projects** and **Mobile Development using Flutter**
